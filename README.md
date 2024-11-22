@@ -12,7 +12,7 @@ This repository contains a comprehensive analysis of sales data for ShopNest, th
 
 The dataset consists of following 9 datasets and the descriptions are below.
 
-dataset link:https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/A%20Data%20Analysis%20Report%20On%20Shopnest%20by%20Jagannath%20Roy.docx
+dataset link: https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/A%20Data%20Analysis%20Report%20On%20Shopnest%20by%20Jagannath%20Roy.docx
 
 1. **Customers_dataset**: Dataset containing information about ShopNest customers, including demographics and purchasing history.
 2. **Geolocation_dataset**: Dataset providing geographical data related to customers, orders, and sellers, aiding in location-based analysis.
@@ -26,36 +26,32 @@ dataset link:https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/b
 
 ## Dashboard Features
 
-Dashboard link:https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/Shopnest_Dashboard.pdf
+Dashboard link: https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/Shopnest_Dashboard.pdf
 
-ShopNest Store Data Analysis
+ShopNest Data Analysis
+This repository contains an in-depth analysis of the ShopNest Store's dataset. The following key analyses have been performed to provide comprehensive insights into the store's performance and customer behavior:
 
-This repository contains a comprehensive analysis of ShopNest Store's sales data. The following key analyses have been performed and visualized to provide detailed insights into various aspects of the store's performance:
+1. **Rating Distribution:** Identify the rating distribution in the ShopNest dataset, showcasing ratings categorized as Excellent, Very Good, Good, Bad, and Very Bad, along with corresponding orders. This analysis helps in understanding customer satisfaction levels and pinpointing areas that may need improvement. By categorizing the ratings, we can focus on enhancing the customer experience and ensuring that products and services meet high standards.
 
-1.**Top Categories by Total Price**:
-Identify and visually represent the top 10 product categories by total sales. This helps in understanding which product categories contribute the most to the overall sales.
+2. **Product Popularity:**
+   
+  a. Determine the top 10 most popular product categories based on the number of orders. This reveals which products are most in demand and can guide inventory and marketing strategies to boost sales further.
 
-2.**Delayed Orders Analysis**:
-Determine the number of delayed orders in each category. An order is considered delayed if the actual delivery date is later than the estimated delivery date. This analysis helps in identifying the categories with the highest delays, allowing for targeted improvements.
+  b.List the bottom 18 least popular product categories based on the number of orders. Identifying the least popular categories helps in deciding whether to discontinue certain products or implement strategies to improve their sales.
 
-3.**Monthly Comparison of Delayed and On-Time Orders**:
-Create a dynamic visual that compares the number of delayed orders to the number of orders received on time for each month. Utilize the drillthrough cross-report feature to provide a detailed analysis of late and on-time deliveries.
+3. **Active Sellers Analysis:** List the total number of active sellers by yearly and monthly. Tracking the number of active sellers provides insights into the growth and engagement of the seller community on the platform. This analysis can help in identifying trends and fluctuations in seller activity, which can inform strategies to attract and retain sellers.
 
-4.**Payment Method Analysis**:
-Analyze the most frequently used payment methods by customers using a visually appealing representation, such as a pie chart. This helps in understanding customer payment preferences.
+4. **Payment Method Analysis:** Analyze the most commonly used payment methods by ShopNest customers. Understanding payment preferences is crucial for optimizing the checkout process and enhancing customer satisfaction. This analysis can help in negotiating better terms with payment processors and in tailoring marketing campaigns to highlight preferred payment methods.
 
-5.**Product Rating Analysis**:
-Determine the top 10 highest-rated products and the bottom 10 lowest-rated products using a bar or column chart. This analysis provides insights into customer satisfaction and product performance.
+5. **Profit Margin by Product Category:** Identify the product category-wise profit margin.
 
-6.**State-wise Sales Analysis**:
-Identify and visually represent states with high and low sales. This provides a clear understanding of regional sales performance, helping in strategic decision-making for regional marketing and sales efforts.
+6. **Monthly Credit Card Payments:** Determine the monthly payments made by customers using credit cards. Analyzing monthly credit card payments provides insights into customer payment behavior and trends. This can help in managing cash flow and in developing strategies to encourage the use of preferred payment methods.
 
-7.**Seasonal Sales Patterns**:
-Investigate and visualize any seasonal patterns or trends in sales data over the course of the year. This quarterly analysis helps in understanding how sales vary with seasons and can aid in inventory and marketing planning.
+7. **Seller City Analysis:** Identify sellers categorized by city, excluding cities starting with the letters 'S' and 'B'. Understanding the geographic distribution of sellers helps in planning regional marketing and seller recruitment efforts. Excluding specific cities can help in focusing on areas with potential for growth or where there is less competition.
 
-8.**Revenue Analysis**:
-Determine the total revenue generated by ShopNest Store and analyze how it changes over time on a yearly basis. Represent this information through suitable visuals to highlight trends and patterns in revenue generation.
+8. **Delayed vs On-Time Orders:** Create a dynamic visual that compares the number of delayed orders to the number of orders received on time for each month. Utilize the drill-through cross-report feature to provide a detailed analysis of late and on-time deliveries. This analysis helps in identifying potential issues in the supply chain and implementing measures to improve delivery performance, ultimately enhancing customer satisfaction.
 
-## Analysis Report:
 
-link:https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/A%20Data%20Analysis%20Report%20On%20Shopnest%20by%20Jagannath%20Roy.docx
+# Analysis Report 
+
+link: https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/A%20Data%20Analysis%20Report%20On%20Shopnest%20by%20Jagannath%20Roy.docx
