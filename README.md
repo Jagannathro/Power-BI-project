@@ -53,9 +53,9 @@ This repository contains an in-depth analysis of the ShopNest Store's dataset. T
 
 ## Overall Visualization.
 
-<p align="center">
-    <img src= '[https://github.com/Jagannathro/PWC_Call_Center/blob/main/PWC.png' height="500"](https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/d1.png)></p>
-
+| Summary |
+| ----------- |
+|![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/PWC-Customer-Churn-Retention/blob/main/d1.png)|
 
 # Analysis Report 
 
