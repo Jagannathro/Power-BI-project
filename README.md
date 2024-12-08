@@ -55,7 +55,7 @@ This repository contains an in-depth analysis of the ShopNest Store's dataset. T
 
 | Summary |
 | ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/PWC-Customer-Churn-Retention/blob/main/d1.png)|
+|![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/d1.png)|
 
 # Analysis Report 
 
