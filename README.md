@@ -51,6 +51,11 @@ This repository contains an in-depth analysis of the ShopNest Store's dataset. T
 
 8. **Delayed vs On-Time Orders:** Create a dynamic visual that compares the number of delayed orders to the number of orders received on time for each month. Utilize the drill-through cross-report feature to provide a detailed analysis of late and on-time deliveries. This analysis helps in identifying potential issues in the supply chain and implementing measures to improve delivery performance, ultimately enhancing customer satisfaction.
 
+## Overall Visualization.
+
+<p align="center">
+    <img src= '[https://github.com/Jagannathro/PWC_Call_Center/blob/main/PWC.png' height="500"](https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/d1.png)></p>
+
 
 # Analysis Report 
 
