@@ -1,4 +1,4 @@
-# Shopnest_Data_Analysis_Dashboard
+# Power BI Data_Analysis_Dashboard
 
 Welcome to the Shopnest Store Sales Dashboard !
 
