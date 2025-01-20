@@ -12,7 +12,7 @@ This repository contains a comprehensive analysis of sales data for ShopNest, th
 
 The dataset consists of following 9 datasets and the descriptions are below.
 
-dataset link: https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/A%20Data%20Analysis%20Report%20On%20Shopnest%20by%20Jagannath%20Roy.docx
+dataset link: [https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/A%20Data%20Analysis%20Report%20On%20Shopnest%20by%20Jagannath%20Roy.docx](https://github.com/Jagannathro/Power-BI-project/blob/main/Data%20Set.zip)
 
 1. **Customers_dataset**: Dataset containing information about ShopNest customers, including demographics and purchasing history.
 2. **Geolocation_dataset**: Dataset providing geographical data related to customers, orders, and sellers, aiding in location-based analysis.
