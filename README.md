@@ -26,7 +26,7 @@ dataset link: [https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi
 
 ## Dashboard Features
 
-Dashboard link: https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/Shopnest_Dashboard.pdf
+Dashboard link: https://github.com/Jagannathro/Power-BI-project/blob/main/Dashboard.pdf
 
 ShopNest Data Analysis
 This repository contains an in-depth analysis of the ShopNest Store's dataset. The following key analyses have been performed to provide comprehensive insights into the store's performance and customer behavior:
