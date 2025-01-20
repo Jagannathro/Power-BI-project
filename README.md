@@ -59,4 +59,4 @@ This repository contains an in-depth analysis of the ShopNest Store's dataset. T
 
 # Analysis Report 
 
-link: https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/A%20Data%20Analysis%20Report%20On%20Shopnest%20by%20Jagannath%20Roy.docx
+link: https://github.com/Jagannathro/Power-BI-project/blob/main/Excel%20Data%20Analysis%20Report%20%20by%20Jagannath%20Roy.docx
